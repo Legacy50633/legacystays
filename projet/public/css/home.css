@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  background-image: url('https://www.ecofarmingdaily.com/wp-content/uploads/indoor-greenhouse-shutter.jpg');
+  background-size: cover;
+  
+}
+h1{
+  text-align: center;
+color: black;
+}
+.opt{
+background-color: white;
+height: 250px;
+width: 600px;
+position: absolute;
+left: 450px;
+top: 250px;
+border-radius: 5%;
+text-align: center;
+}
+.btn{
+  width: 200px;
+  height: 70px;
+border-radius: 5%;
+}

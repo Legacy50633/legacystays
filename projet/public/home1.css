@@ -1,0 +1,42 @@
+.head{
+    text-align: center;
+    color: white;
+}
+body{
+    margin: 0;
+
+      background-size: cover;
+    background-image: url('https://images.unsplash.com/photo-1600917016506-556622b74303?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE5fHxmcnVpdCUyMGZhcm18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60');
+   
+}
+
+.fruits{
+    height: 480px;
+    width: 500px;
+
+  position: absolute;
+  left: 400px;
+  bottom: 80px;
+  text-align: center;
+}
+img{
+    width: 250px;
+    height: 250px;
+  
+}
+.cont{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 500px;
+    top: 250px;
+    border-radius: 10%;
+  text-align:center;
+  font-size: large;
+}
+.btn{
+    width: 200px;
+    height: 80px;
+    border-radius: 10%;
+}

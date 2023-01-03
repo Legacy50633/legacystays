@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+background-color: linen;
+}
+h1{
+   margin-left: 50px;
+}
+.create{
+   margin-left: 100px;
+ background-color: greenyellow;
+ width: 200px; 
+ text-align: center;
+
+ 
+}

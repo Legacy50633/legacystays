@@ -1,0 +1,175 @@
+module.exports = [{
+    name:"Apple",
+    price:12,
+    weight:2,
+    available:100,
+    img:"https://img.freepik.com/premium-photo/raw-potato-isolated-white-background-with-clipping-path_88281-1368.jpg?w=2000"
+},
+{
+    name:"Mango",
+    price:10,
+    weight:5,
+    available:100,
+    img:"https://media.istockphoto.com/id/1258142863/photo/tomatoes-isolate-on-white-background-tomato-half-isolated-tomatoes-side-view-whole-cut-slice.jpg?s=612x612&w=0&k=20&c=LXNZwfkHS3LfKvOxUpzFf1iawID63DVYEjeM7fMK-Xk="
+},
+{
+    name:"Papaya",
+    price:16,
+    weight:2,
+    available:100,
+    img:"https://cdn.xxl.thumbs.canstockphoto.com/red-onion-sweet-red-onion-on-the-white-stock-photograph_csp8552539.jpg"
+},
+{
+    name:"Gauva",
+    price:14,
+    weight:1,
+    available:100,
+    img:"https://cdn.xxl.thumbs.canstockphoto.com/red-onion-sweet-red-onion-on-the-white-stock-photograph_csp8552539.jpg"
+},
+{
+    name:"Orange",
+    price:19,
+    weight:2,
+    available:100,
+    img:"https://media.istockphoto.com/id/184859998/photo/green-peppers.jpg?s=612x612&w=0&k=20&c=QPIvwsr-E8fCJkxzG57yTFxyCXl2CaRmRYPfajsxAjk="
+},
+{
+    name:"Lichi",
+    price:100,
+    weight:1,
+    available:100,
+    img:"https://media.istockphoto.com/id/184859998/photo/green-peppers.jpg?s=612x612&w=0&k=20&c=QPIvwsr-E8fCJkxzG57yTFxyCXl2CaRmRYPfajsxAjk="
+},
+{
+    name:"Straw berry",
+    price:1000,
+    weight:2,
+    available:10,
+    img:"https://5.imimg.com/data5/VO/PH/MY-28979070/sambar-onion-500x500.jpg"
+},
+{
+    name:"Black graphes",
+    price:120,
+    weight:2,
+    available:100,
+    img:"https://5.imimg.com/data5/VO/PH/MY-28979070/sambar-onion-500x500.jpg"
+},
+{
+    name:"Dates",
+    price:160,
+    weight:1,
+    available:10,
+    img:"https://media.istockphoto.com/id/182240577/photo/bin-of-cauliflower-heads.jpg?b=1&s=170667a&w=0&k=20&c=cCaLAq9eg5IDtltP3DogkZrSdbqT9Qo8oWvX6B7n44E="
+},
+{
+    name:"Dragon",
+    price:110,
+    weight:0.5,
+    available:1,
+    img:"https://upload.wikimedia.org/wikipedia/commons/a/a0/French_beans_J1.JPG"
+},
+{
+    name:"Cherry",
+    price:11,
+    weight:0.5,
+    available:5,
+    img:"https://hips.hearstapps.com/hmg-prod/images/cucumber-slice-royalty-free-image-153556336-1562870568.jpg"
+},
+{
+    name:"Alphonso Mango",
+    price:135,
+    weight:0.5,
+    available:10,
+    img:"https://health.clevelandclinic.org/wp-content/uploads/sites/3/2022/09/Benefits-Of-Cabbage-589153824-770x533-1-650x428.jpg"
+},
+{
+    name:"Seetha",
+    price:1200,
+    weight:1,
+    available:10,
+    img:"https://www.realsimple.com/thmb/zjJYhj0AXTu8Ndio6-Hl2NzSicY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-benefits-of-garlic-2000-482c21fd2d154102a9b7a46ccb34e70a.jpg"
+},
+{
+    name:"Butter",
+    price:100,
+    weight:0.5,
+    available:1,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrg8xRNywG93lHieqsiXHF11O-su4vcTO3Sg&usqp=CAU"
+},
+{
+    name:"Avacadoes",
+    price:120,
+    weight:2,
+    available:100,
+    img:"https://5.imimg.com/data5/ZP/MT/DU/SELLER-70813520/frozen-broccoli-500x500.jpg"
+},
+{
+    name:"Water Melons",
+    price:11,
+    weight:2,
+    available:100,
+    img:"https://cdn.shopify.com/s/files/1/0522/4149/8278/products/ladyfinger_600x.jpg?v=1655522463"
+},
+{
+    name:"Rash berries",
+    price:111,
+    weight:2,
+    available:100,
+    img:"https://cdn.shopify.com/s/files/1/0522/4149/8278/products/ladyfinger_600x.jpg?v=1655522463"
+},
+{
+    name:"Pine apple",
+    price:12,
+    weight:2,
+    available:100,
+    img:"https://cdn.shopify.com/s/files/1/0522/4149/8278/products/ladyfinger_600x.jpg?v=1655522463"
+},
+{
+    name:"coconut",
+    price:100,
+    weight:0.5,
+    available:100,
+    img:"https://www.health.com/thmb/vlehi-KWIGaXmxou9sx3FadT4kk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spinach-GettyImages-1135161567-1-2000-af5a3db960f7469faa7d281ae8769156.jpg"
+},
+{
+    name:"Citrus",
+    price:111,
+    weight:0.5,
+    available:10,
+    img:"https://www.health.com/thmb/vlehi-KWIGaXmxou9sx3FadT4kk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spinach-GettyImages-1135161567-1-2000-af5a3db960f7469faa7d281ae8769156.jpg"
+},
+{
+    name:"CoCo",
+    price:120,
+    weight:1,
+    available:100,
+    img:"https://www.onlyfororganic.com/media/catalog/product/cache/1/thumbnail/960x/17f82f742ffe127f42dca9de82fb58b1/c/a/carrot_orange.jpg"
+},
+{
+    name:"kissmiss",
+    price:13,
+    weight:1,
+    available:10,
+    img:"https://wildroots.in/wp-content/uploads/2021/04/Untitled-design-2021-04-28T152245.247.jpg"
+},
+{
+    name:"Sweet potato",
+    price:15,
+    weight:1.5,
+    available:10,
+    img:"https://hips.hearstapps.com/hmg-prod/images/full-frame-shot-of-broccoli-royalty-free-image-571248799-1532377854.jpg?crop=0.75xw:1xh;center,top&resize=640:*"
+},
+{
+    name:"Plum",
+    price:120,
+    weight:0.5,
+    available:5,
+    img:"https://hips.hearstapps.com/hmg-prod/images/full-frame-shot-of-broccoli-royalty-free-image-571248799-1532377854.jpg?crop=0.75xw:1xh;center,top&resize=640:*"
+},{
+    name:"Banana",
+    price:1300,
+    weight:400,
+    available:300,
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrg8xRNywG93lHieqsiXHF11O-su4vcTO3Sg&usqp=CAU"
+}
+]
